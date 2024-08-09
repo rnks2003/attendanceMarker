@@ -8,5 +8,5 @@ Statement :\
  4. Mark attendance in an csv file with time stamp
 
 Pre-requisites:\
- 1.Set up a anaconda environment (Not Necessary, but preferred)
+ 1.Set up a anaconda environment (Not Necessary, but preferred)\
  2.Install face-recognition and opencv-python libraries using pip
